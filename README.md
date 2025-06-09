@@ -1,7 +1,4 @@
-
-
-
-
+![Feature Importance](assets/IMAGE_LOGO.jpg)
 
 # Hybrid Movie Recommendation System
 
